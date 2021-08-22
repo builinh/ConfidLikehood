@@ -1,0 +1,28 @@
+----------------------------------------------
+**********************************************
+----------------------------------------------
+The local date and time run is: Fri Aug 20 11:06:08 2021
+
+Input file: /home/builinh/Dropbox/SEASTAR2017/Linh_code_DTCB2021/ConfiLikelihood/build/02testinput.in
+Confidence level test for peak 1
+Computing limits... 
+CLs    : 0.841633
+CLsb   : 0.841633
+CLb    : 1
+< CLs >  : 0.00621818
+< CLsb > : 0.00310922
+< CLb >  : 0.50002
+----------------------------------------------
+**********************************************
+----------------------------------------------
+The local date and time run is: Fri Aug 20 11:52:51 2021
+
+Input file: /home/builinh/Dropbox/SEASTAR2017/Linh_code_DTCB2021/ConfiLikelihood/build/02testinput.in
+Confidence level test for peak 1
+Computing limits... 
+CLs    : 0.841633
+CLsb   : 0.841633
+CLb    : 1
+< CLs >  : 0.00621818
+< CLsb > : 0.00310922
+< CLb >  : 0.50002

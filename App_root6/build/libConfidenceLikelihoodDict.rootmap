@@ -1,0 +1,4 @@
+[ libConfidenceLikelihoodDict.so ]
+# List of selected classes
+class ConfidenceLikelihood
+header ConfiLikelihood.h

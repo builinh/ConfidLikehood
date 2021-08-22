@@ -1,0 +1,7 @@
+NumOfPeaks 2
+IntensityPeak 0.0004564 0.00005763 
+IntensityBackground 0.7 0. 4.182 -0.002288
+InputSimulation /mnt/hgfs/SEASTAR/shogun-sim_psp17/Results/49Cl/50Ar49ClRec350.root /mnt/hgfs/SEASTAR/shogun-sim_psp17/Results/49Cl/50Ar49ClRec630.root
+ExpFile /mnt/hgfs/SEASTAR/shogun-sim_psp17/Results/psp17_50Ar_49Cl_22112018.root
+NumRebin 3
+END

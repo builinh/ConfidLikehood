@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/builinh/Dropbox/SEASTAR2017/Linh_code_DTCB2021/ConfiLikelihood/build",
+  "command": "/usr/bin/clang++-3.5   -I/home/builinh/Program/root6/include -I/home/builinh/Dropbox/SEASTAR2017/Linh_code_DTCB2021/ConfiLikelihood    -std=c++11 -pipe -fsigned-char -pthread -g    -std=c++11 -pipe -fsigned-char -pthread -o CMakeFiles/ConfiLikelihood.dir/main.cxx.o -c /home/builinh/Dropbox/SEASTAR2017/Linh_code_DTCB2021/ConfiLikelihood/main.cxx",
+  "file": "/home/builinh/Dropbox/SEASTAR2017/Linh_code_DTCB2021/ConfiLikelihood/main.cxx"
+},
+{
+  "directory": "/home/builinh/Dropbox/SEASTAR2017/Linh_code_DTCB2021/ConfiLikelihood/build",
+  "command": "/usr/bin/clang++-3.5  -DConfidenceLikelihood_EXPORTS -I/home/builinh/Program/root6/include -I/home/builinh/Dropbox/SEASTAR2017/Linh_code_DTCB2021/ConfiLikelihood    -std=c++11 -pipe -fsigned-char -pthread -g -fPIC    -std=c++11 -pipe -fsigned-char -pthread -o CMakeFiles/ConfidenceLikelihood.dir/ConfiLikelihood.cxx.o -c /home/builinh/Dropbox/SEASTAR2017/Linh_code_DTCB2021/ConfiLikelihood/ConfiLikelihood.cxx",
+  "file": "/home/builinh/Dropbox/SEASTAR2017/Linh_code_DTCB2021/ConfiLikelihood/ConfiLikelihood.cxx"
+},
+{
+  "directory": "/home/builinh/Dropbox/SEASTAR2017/Linh_code_DTCB2021/ConfiLikelihood/build",
+  "command": "/usr/bin/clang++-3.5  -DConfidenceLikelihood_EXPORTS -I/home/builinh/Program/root6/include -I/home/builinh/Dropbox/SEASTAR2017/Linh_code_DTCB2021/ConfiLikelihood    -std=c++11 -pipe -fsigned-char -pthread -g -fPIC    -std=c++11 -pipe -fsigned-char -pthread -o CMakeFiles/ConfidenceLikelihood.dir/ConfidenceLikelihoodDict.cxx.o -c /home/builinh/Dropbox/SEASTAR2017/Linh_code_DTCB2021/ConfiLikelihood/build/ConfidenceLikelihoodDict.cxx",
+  "file": "/home/builinh/Dropbox/SEASTAR2017/Linh_code_DTCB2021/ConfiLikelihood/build/ConfidenceLikelihoodDict.cxx"
+}
+]
